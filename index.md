@@ -1,70 +1,67 @@
 # Taste of Oulu
 
-## Welcome to the Finest Cuisine in Oulu
+<p align="center">
+  <img src="images/main_Image.jpg" alt="Restaurant Front" width="800" height="300">
+</p>
 
-At **Taste of Oulu**, we bring you authentic local flavors combined with a modern twist. Whether you're craving traditional Finnish dishes or an innovative take on classic recipes, you'll find it here!
+## Welcome to Taste of Oulu
 
----
-
-### Menu Highlights
-
-- **Starters**
-  - Creamy Salmon Soup
-  - Reindeer Carpaccio
-
-- **Main Courses**
-  - Grilled Arctic Char with Dill Sauce
-  - Slow-Cooked Reindeer Stew
-
-- **Desserts**
-  - Cloudberry Cheesecake
-  - Lingonberry Parfait
+Explore traditional Finnish cuisine made with fresh, local ingredients. 
 
 ---
 
-### Visit Us
+## Menu
 
-We are located at:
-
-**Oulu City Center, Finland**
-
-📞 **Call us**: +358 123456789  
-🕑 **Opening hours**:  
-Monday - Friday: 10 AM - 10 PM  
-Saturday - Sunday: 11 AM - 11 PM
+**[Home](#)** | **[About Us](#)** | **[Menu](#)** | **[Contact](#)**
 
 ---
 
-### Reviews
+### Our Specialties
 
-> "An unforgettable dining experience!"  
-> – _Helsinki Daily_
+<p align="center">
+  <img src="images/reindeer_stew.jpg" alt="Reindeer Stew" width="300" height="200">
+  <br>
+  **Reindeer Stew**  
+  A hearty, flavorful stew made with tender reindeer meat.  
+  **Price:** 16.00 €
+</p>
 
-> "Taste of Oulu brings the heart of Finnish cuisine to the table."  
-> – _Foodie Finland_
+<p align="center">
+  <img src="images/salmon_soup.jpg" alt="Salmon Soup" width="300" height="200">
+  <br>
+  **Salmon Soup**  
+  A traditional creamy salmon soup that's perfect for cold days.  
+  **Price:** 12.00 €
+</p>
 
----
-
-### Contact Us
-
-Feel free to reach out via our [contact form](https://example.com/contact) or email us at [tasteofoulu@example.com](mailto:tasteofoulu@example.com).
-
----
-
-### Follow Us on Social Media
-
-- [Instagram](https://instagram.com/tasteofoulu)
-- [Facebook](https://facebook.com/tasteofoulu)
-- [Twitter](https://twitter.com/tasteofoulu)
-
----
-
-### Gallery
-
-![Delicious dish](https://via.placeholder.com/500)
+<p align="center">
+  <img src="images/karelian_pasty.jpg" alt="Karelian Pasty" width="300" height="200">
+  <br>
+  **Karelian Pasty**  
+  A savory pie filled with rice porridge, served with egg butter.  
+  **Price:** 8.00 €
+</p>
 
 ---
 
-Thanks for visiting **Taste of Oulu**!  
-We look forward to serving you.
+## About Us
 
+At Taste of Oulu, we pride ourselves on serving authentic Finnish dishes with a modern twist. Our cozy atmosphere and dedicated staff will ensure you have a memorable dining experience.
+
+---
+
+## Opening Hours
+
+**Monday - Friday:** 11:00 AM - 9:00 PM  
+**Saturday:** 12:00 PM - 10:00 PM  
+**Sunday:** Closed
+
+---
+
+## Contact Us
+
+For reservations and inquiries, please email us at: [info@tasteofoulu.com](mailto:info@tasteofoulu.com)
+
+---
+
+*Follow us on social media for updates and special offers!*
