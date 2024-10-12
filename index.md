@@ -21,25 +21,25 @@ Explore traditional Finnish cuisine made with fresh, local ingredients.
 <p align="center">
   <img src="images/reindeer_stew.jpg" alt="Reindeer Stew" width="300" height="200">
   <br>
-  **Reindeer Stew**  
+  Reindeer Stew  
   A hearty, flavorful stew made with tender reindeer meat.  
-  **Price:** 16.00 €
+  Price: 16.00 €
 </p>
 
 <p align="center">
   <img src="images/salmon_soup.jpg" alt="Salmon Soup" width="300" height="200">
   <br>
-  **Salmon Soup**  
+  Salmon Soup  
   A traditional creamy salmon soup that's perfect for cold days.  
-  **Price:** 12.00 €
+  Price: 12.00 €
 </p>
 
 <p align="center">
   <img src="images/karelian_pasty.jpg" alt="Karelian Pasty" width="300" height="200">
   <br>
-  **Karelian Pasty**  
+  Karelian Pasty  
   A savory pie filled with rice porridge, served with egg butter.  
-  **Price:** 8.00 €
+  Price: 8.00 €
 </p>
 
 ---
